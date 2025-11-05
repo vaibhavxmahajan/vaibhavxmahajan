@@ -1,37 +1,47 @@
-<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
+<!-- ================== HEADER ================== -->
+<img src="https://github.com/vaibhavxmahajan/vaibhavxmahajan/blob/main/svg.svg" width="100%"/>
 
+<h2 align="center"><code>👋 Hey there, I'm Vaibhav Mahajan</code></h2>
+<p align="center"><em>A Front-end Developer at <a href="https://corporate.zillit.com">Zillit</a> 😊</em></p>
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
-</em></p>
+<p align="center">
+   <code>🚀 Front-end Developer</code> • 
+   <code>🧠 Lifelong Learner</code> • 
+   <code>🎨 UI/UX Enthusiast</code>
+</p>
 
+<!-- ================== ABOUT ME ================== -->
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Python"],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React", "Next.js", "Angular"],
+         css: ["TailwindCSS", "Bootstrap"]
       },
       backEnd: {
-         java: ["Spring"],
-         js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         js: ["Node.js", "Express"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["MongoDB"],
+      mobile: ["Android"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: [
+      "Frontend Developer at Zillit", 
+      "Open for freelance opportunities"
+   ],
+   currentlyLearning: ["Advanced React Patterns", "TypeScript Best Practices"],
+   challenge: "I'm working towards being able to run a marathon 🏃‍♂️",
+   funFact: "When I’m not coding, I’m probably sketching UI ideas or running!"
 };
 ```
-</br></br>
-<h2>💻 Some stats 💻</h2>
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=reeveng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- ================== GITHUB STATS ================== --> 
+<h3><code>📊 GitHub Stats</code></h3> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vaibhavxmahajan&show_icons=true&theme=github_dark&hide_border=true" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavxmahajan&layout=compact&theme=github_dark&hide_border=true" height="165"/> </p>
 
----
+<!-- ================== CONNECT ================== --> 
+<h3><code>📫 Connect with Me</code></h3> <p align="center"> <a href="https://www.linkedin.com/in/vaibhavmahajancse/"> <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /> </a> <a href="mailto:vaibhavmahajan3003@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /> </a></p>
 
-⭐️ From [reeveng](https://github.com/reeveng) inspired by [sudiptog81](https://github.com/sudiptog81) and  [FelixRilling](https://github.com/)
+<!-- ================== FOOTER ================== --> 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vaibhavxmahajan&color=blueviolet&style=flat-square" alt="profile views"/> <img src="https://img.shields.io/github/followers/vaibhavxmahajan?label=Follow&style=social" alt="GitHub followers"/> </p> <p align="center"> <sub>💡 Crafted with ❤️ by <a href="https://github.com/vaibhavxmahajan">Vaibhav Mahajan</a></sub> </p>
