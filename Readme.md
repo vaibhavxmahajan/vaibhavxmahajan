@@ -2,7 +2,7 @@
 <img src="https://github.com/vaibhavxmahajan/vaibhavxmahajan/blob/main/svg.svg" width="100%"/>
 
 <h2 align="center"><code>👋 Hey there, I'm Vaibhav Mahajan</code></h2>
-<p align="center"><em>A Front-end Developer at <a href="https://corporate.zillit.com">Zillit</a> 😊</em></p>
+<p align="center"><em>A Front-end Developer 😊</em></p>
 
 <p align="center">
    <code>🚀 Front-end Developer</code> • 
